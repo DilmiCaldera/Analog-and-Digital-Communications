@@ -1,2 +1,5 @@
 # Analog-and-Digital-Communications
-Sampling and Quantization of a signal with the use of MATLAB.
+
+Here it covers the sampling and quantization of a sinusoidal signal using MATLAB functions.
+
+All the needed steps, functions, calculations and explanations are mentioned in the code file.
